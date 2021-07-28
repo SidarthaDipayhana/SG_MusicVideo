@@ -2,3 +2,9 @@
 scenes/Environments/Forest/Versions/Sid/ForestComb2.mb
 
 scenes/Environments/Forest/Versions/Sid/ForestComb3.mb
+
+*.tx
+
+scenes/Environments/Forest/Forest.mb
+
+scenes/Environments/Forest/Versions/Sid/ForestComb4.mb
